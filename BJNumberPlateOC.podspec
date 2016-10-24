@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "BJNumberPlateOC"
-  s.version      = "1.0.0"
+  s.version      = "1.0.1"
   s.summary      = "BJNumberPlateOC is a custom number plate keyboard."
   s.description  = <<-DESC
                       BJNumberPlateOC is a custom number plate keyboard, it's easy to use
