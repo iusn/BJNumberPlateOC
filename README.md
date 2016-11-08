@@ -34,7 +34,6 @@ BJNumberPlateOC *numberPlate = [[BJVehicleNumberPlate alloc] initWithFrame:CGRec
 
 textField.inputView = numberPlate;
 
-textView.inputView = numberPlate;
 ```
 
 
